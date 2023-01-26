@@ -1,0 +1,81 @@
+.active-nav{
+    color:#ffffff !important;
+    text-shadow: 1px 1px black;
+    text-decoration: underline;
+    text-decoration-color: #229ED8;
+    text-underline-offset: 10px;
+}
+.innovation-header{
+    color:#000044 !important;
+    text-decoration: underline;
+    text-decoration-color: #229ED8;
+    text-underline-offset: 10px;
+}
+.inactive-nav{
+    color:#c7c7c7 !important;
+}
+.inactive-nav2{
+    color:#000080!important;
+}
+.inactive-nav:hover,
+.inactive-nav2:hover{
+    color:#229ED8 !important;
+}
+.dropdown-icon{
+    color:#229ED8 !important;
+}
+.team-link{
+    color: black;
+    text-decoration: none;
+}
+.bg-navbar{
+    background-color:#000080 !important;
+}
+.bg-navy{
+    background-color:#000044 !important;
+}
+.bg-lightgold{
+    background-color: #FFEC8A !important;
+}
+.bg-darkgold{
+    background-color: #ffde3a !important;
+}
+.blue-gold-btn{
+    background-color: #000044 !important;
+    border-color: #FFD700 !important;
+}
+.gold-blue-btn{
+    background-color: #FFEC8A !important;
+    border-color: #000044 !important;
+    color: #000044 !important;
+}
+.text-navy{
+    color:#000044 !important;
+}
+.text-lightgold{
+    color:#FFEC8A !important;
+}
+.text-teamsub{
+    color:#A6E3ff !important;
+}
+.sticky{
+    position: fixed;
+    width: 100%;
+}
+.stickyText{
+    color: inherit !important;
+    text-decoration: none;
+}
+.display-7{
+    font-size: 1.7rem;
+}
+.contactLink{
+    text-decoration: none;
+}
+#statement{
+    font-family:"Laos", sans-serif;
+}
+#mission-button{
+    background-color: #000044 !important;
+    border-color: #229ED8 !important;
+}
